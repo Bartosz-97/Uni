@@ -988,7 +988,7 @@ html {
 
 /* HEIGHT */
 
-@media (min-height: 220px) and (max-height: 550px) {
+@media (min-height: 190px) and (max-height: 550px) {
   .menu__mobile a {
     font-size: 16px;
     border: none;
